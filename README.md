@@ -11,7 +11,7 @@ This project focuses on developing a Machine Learning model to classify the seve
 - **Python** 🐍  
 - **Scikit-learn**  
 - **NumPy & Pandas**  
-- **OpenCV ** (for image processing, if applicable)  
+- **OpenCV** 
 - **Matplotlib / Seaborn** (for visualization)
 
 ## 📊 Key Features
